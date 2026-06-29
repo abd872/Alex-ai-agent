@@ -1,0 +1,6 @@
+{
+  "name": "Alex - Universal WhatsApp AI",
+  "description": "An intelligent AI assistant on WhatsApp that provides accurate, helpful, and concise answers on a wide variety of topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
